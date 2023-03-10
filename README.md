@@ -15,4 +15,4 @@ Rules,
 4. Guessed wrong means restart the game
 
 # Visit the game
-
+https://awizp.github.io/Color-match-game/
